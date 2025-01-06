@@ -1,5 +1,6 @@
 {
     "AllowedDomains": [
+        "localhost",
         "google.com",
         "csfirst.withgoogle.com",
         "sketchup.com",
