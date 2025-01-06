@@ -2,7 +2,7 @@
     "AllowedDomains": [
         "localhost",
         "google.com",
-        "csfirst.withgoogle.com",
+        "withgoogle.com",
         "sketchup.com",
         "trimble.com",
         "tinkercad.com",
@@ -56,7 +56,7 @@
         "freemusicpublicdomain.com",
         "dropbox.com",
         "free-stock-music.com",
-        "es.duolingo.com",
+        "duolingo.com",
         "quizizz.com",
         "deepl.com",
         "onlinedoctranslator.com",
@@ -69,12 +69,11 @@
         "parla.cat",
         "bromera.com",
         "claseslengua.com",
-        "avl.gva.es",
-        "dlc.iec.cat",
+        "gva.es",
+        "iec.cat",
         "klipartz.com",
         "pngwing.com",
-        "correos.es",
-        "217.160.136.60"
+        "correos.es"
     ],
     "DenyContains": [
         "store",
