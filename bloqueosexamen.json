@@ -16,7 +16,7 @@
         "GoThroughParents": 0
     },
     "Method": 1,
-    "BlockIframes": true,
+    "BlockIframes": false,
     "Method2ReturnURL": "https://google.com",
     "PreBlockLinks": true
 }
