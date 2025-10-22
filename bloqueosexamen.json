@@ -18,5 +18,6 @@
     "Method": 1,
     "BlockIframes": false,
     "Method2ReturnURL": "https://google.com",
+    "Method1InnerHTML": "<style>body{margin:10px;background:#bbb;font:16px monospace;color:#000;}</style><p>R Tape loading error, 0:1<br>Page not found</p>",
     "PreBlockLinks": true
 }
