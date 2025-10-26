@@ -9,7 +9,8 @@
         "google.com/logos",
         "google.es/logos",
         "drive.google.com",
-        "google.com/search"
+        "google.com/search",
+        "mail.google.com"
     ],
     "Doodle": {
         "Query": "block-component",
