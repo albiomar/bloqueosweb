@@ -35,7 +35,6 @@
         "codecombat.com",
         "ozaria.com",
         "creately.com",
-        "mit.edu",
         "code.org",
         "ajedrez-online.eu",
         "colegiomercurio.org",
@@ -78,7 +77,7 @@
         "significados.com",
         "miro.com",
         "aprendergratis.com",
-        "worldguessr.com
+        "worldguessr.com"
     ],
     "DenyContains": [
         "store",
